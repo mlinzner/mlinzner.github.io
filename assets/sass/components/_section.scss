@@ -22,7 +22,7 @@
 				content: '';
 				display: block;
 				background-color: _palette(border);
-				height: 1px;
+				height: 3px;
 				margin: 1.5rem 0 1.75rem 0;
 				width: 5rem;
 
@@ -35,7 +35,7 @@
 
 		p {
 			font-size: 1em;
-			letter-spacing: _font(letter-spacing-alt);
+			//letter-spacing: _font(letter-spacing-alt);
 			margin-bottom: 0;
 		}
 
